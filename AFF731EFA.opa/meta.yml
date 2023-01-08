@@ -1,0 +1,25 @@
+id: AFF731EFA
+title: Sukhāvatī Aspiration
+type: translation
+pechas:
+- IEFE5C62A
+- I4EE46168
+- I9799A900
+- I2BAAB11C
+source_metadata:
+  languages:
+  - en
+  - pt
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:04:46.170201
+  last_modified_at: 2023-01-04 13:04:46.170206
+  collections:
+  - Mipham Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IEFE5C62A/000A: '0143'
+  I4EE46168/5A0B: '0143'
+  I9799A900/A382: '0143'
+  I2BAAB11C/5F75: '0143'
